@@ -1,8 +1,0 @@
-bin
-build
-target
-.DS_Store
-.settings
-.project
-.classpath
-.gradle
